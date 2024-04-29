@@ -1,0 +1,19 @@
+.styled-font {
+background-color: rgb(255, 192, 203); 
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#unique-id {
+    color: rgb(0, 0, 255); 
+    font-size: 36px; 
+    }
+    
+#another-id {
+    background-color: rgb(173, 255, 47); 
+    font-size: 24px; 
+    font-weight: bold; /_ Bold text */
+    }
+    
+    
+#third-element {
+        font-size: 24px;
